@@ -330,6 +330,11 @@ Output: One-time verification result
 | Privacy invasive | Privacy-preserving |
 
 ---
+## Output:
+
+![WhatsApp Image 2026-01-30 at 2 25 25 PM](https://github.com/user-attachments/assets/7d793951-5cf8-41f0-9327-182b7b0e5b09)
+![WhatsApp Image 2026-01-30 at 2 25 26 PM](https://github.com/user-attachments/assets/3a0d27eb-03a2-4088-a1a8-4d65090b756f)
+
 
 ## 13. Conclusion
 
